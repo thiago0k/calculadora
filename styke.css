@@ -1,0 +1,29 @@
+
+.contenedor {
+  text-align: center;
+}
+
+.sub {
+    display: flex;
+    flex-flow: column wrap;
+    text-align: center;
+    max-width: 500px;
+    gap: 20px;
+}
+
+.btn {
+    padding: 1rem 3rem;
+    background-color:#fff;
+    border: solid 2px aqua;
+    color: grey;
+}
+
+.one {
+    border: solid 1px gainsboro;
+    padding: 10px;
+    
+}
+
+input {
+    height: 3rem;
+}
